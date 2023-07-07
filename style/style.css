@@ -17,3 +17,15 @@ figcaption{
     text-align: center;
     
 }
+label{
+    display: block;
+    margin-bottom: 10px;
+    padding: 2px;
+}
+.valo{
+    background-color: chartreuse;
+    width: 1200px;
+    height: 600px;
+    padding: 10px;
+    margin: 15px;
+}
