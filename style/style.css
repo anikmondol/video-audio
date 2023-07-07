@@ -29,3 +29,18 @@ label{
     padding: 10px;
     margin: 15px;
 }
+
+td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    padding: 5px 10px;
+}
+.toi{
+    background-color: lightseagreen;
+    height: 400px;
+    width: 800px;
+}
+.oi{
+    text-align: 80%;
+}
